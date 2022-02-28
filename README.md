@@ -1,4 +1,4 @@
-## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/77713114?v=4" width="200" />
+## Hi there 👋 
 I'm **Iwin**, An developer. I like to code web applications and javascript applications more. I have worked on many js projects, Some of my open source projects are pinned below make sure to check them out❤.
 
 Thanks for visiting my github profile. Have a great day ahead!~
