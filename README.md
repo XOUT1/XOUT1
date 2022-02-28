@@ -1,20 +1,15 @@
-### Hi there 👋
+## Hi there 👋 <img align="right" src="https://avatars.githubusercontent.com/u/77713114?v=4" width="200" />
+I'm **Iwin**, An developer. I like to code web applications and javascript applications more. I have worked on many js projects, Some of my open source projects are pinned below make sure to check them out❤.
 
-<!--
-**XOUT1/XOUT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my github profile. Have a great day ahead!~
 
 
-
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=XOUT1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
