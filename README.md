@@ -1,15 +1,27 @@
-## Hi there 👋 
-I'm **Iwin**, An developer. I like to code web applications and javascript applications more. I have worked on many js projects, Some of my open source projects are pinned below make sure to check them out❤.
+# 👋 Hi, I'm Iwin Siju
 
-Thanks for visiting my github profile. Have a great day ahead!~
+🔐 Cybersecurity enthusiast focused on offensive security and penetration testing.
 
+## 🚀 What I Do
+- Web Application Penetration Testing
+- Vulnerability Assessment (OWASP Top 10)
+- Hands-on exploitation (SQL Injection, XSS)
+- Linux & security tooling
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=XOUT1&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-</p>
+## 🔥 Featured Project
+### 🟥 Web Application Pentest (OWASP Juice Shop)
+- Exploited SQL Injection (Authentication Bypass)
+- Demonstrated Cross-Site Scripting (XSS)
+- Full attack methodology & reporting
 
-<div align="center">
+👉 https://github.com/XOUT1/web-app-pentest-report
 
-### Show some ❤️ by starring some of the repositories!
+## 🛠 Tech Stack
+- Tools: Nmap, Burp Suite, Gobuster
+- Languages: Python, JavaScript, C#
+- Platforms: Linux (Kali), Windows
 
-</div>
+## 📈 Currently Learning
+- Advanced Web Exploitation
+- Privilege Escalation
+- Bug Bounty Techniques
